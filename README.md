@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Aravindsiuu/Aravindsiuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aravind from the School of Science and Technology. I am a competent school leader who has great relationships with my peers and groupmates. I enjoy coding as well as learning new things by myself. I am very well-versed in front-end design as well as marketing. 
 
+[![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravindsiuu)](https://github.com/Aravindsiuu/github-readme-stats)
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
