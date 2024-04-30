@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravind</h1>
-<h3 align="left">I'm Aravind from the School of Science and Technology. I am a competent school leader who has great relationships with my peers and groupmates. I enjoy coding as well as learning new things by myself. I am very well-versed in front-end design as well as marketing.</h3>
+<h5 align="center">I'm Aravind from the School of Science and Technology. I am a competent school leader who has great relationships with my peers and groupmates. I enjoy coding as well as learning new things by myself. I am very well-versed in front-end design as well as marketing.</h5>
 
 - 🔭 I’m currently working on [GrowCalth](https://github.com/kidscoots101/GrowCalth-Final.git), which is an one-stop platform for students from my school to contribute to their house through taking steps/waking.
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aravindbn54@gmail.com**
 
-- ⚡ Fun fact **I am also a competent student leader in my school part of the House Committee, representing the committee for 3 years.**
+- ⚡ Fun fact **I am also a competent student leader in my school part of the House Committee, representing the committee for close to 3 years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
