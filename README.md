@@ -65,7 +65,7 @@
 A platform aimed at promoting mental health awareness and providing tools for individuals to manage their well-being effectively. This project includes features like journaling, resource-sharing, and progress tracking.  
 
 **Demo/Screenshot:**  
-![GrowCalth Screenshot](./screenshots/growcalth.jpeg)
+![GrowCalth]<img src="./screenshots/growcalth.jpeg" alt="GrowCalth Screenshot" width="100">
 
 **GitHub Repository:**  
 [GrowCalth](https://github.com/kidscoots101/GrowCalth-Final.git)
@@ -77,7 +77,7 @@ A platform aimed at promoting mental health awareness and providing tools for in
 A comprehensive platform designed for students and teachers to manage homework submissions efficiently. It offers functionalities like assignment creation, tracking, and submission management.  
 
 **Demo/Screenshot:**  
-![S401 Screenshot](.//)
+![S401 Screenshot](./screenshots/s401-homework.png)
 
 **GitHub Repository:**  
 [S401 Homework Management Platform](./screenshots/s401-homework.png)
