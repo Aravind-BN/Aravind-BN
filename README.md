@@ -48,14 +48,72 @@
 
 ---
 
-<h2 align="left">Projects</h2>
+### Table of Contents
 
-- [**GrowCalth**](https://github.com/kidscoots101/GrowCalth-Final.git): A platform designed to encourage healthier habits through task tracking and gamification.  
-- [**S401 Homework Management Platform**](https://github.com/kidscoots101/S401-Homework-Management-Platform.git): A tool to streamline homework assignments and submissions for students and teachers.  
-- [**Comp Coursework**](https://github.com/TheshyanTTT/Comp-Coursework.git): Collaborative coursework for a computing class, focusing on practical programming and problem-solving.  
-- [**XVAT.AI**](https://github.com/kidscoots101/pdf.git): A project to enhance document management using artificial intelligence for processing PDFs.  
-- [**Rizzlah**](https://github.com/Aravind-BN/rizzlah.git): A creative and engaging application showcasing interactive design and dynamic features.
+1. [GrowCalth](#growcalth)
+2. [S401 Homework Management Platform](#s401-homework-management-platform)
+3. [Comp Coursework](#comp-coursework)
+4. [XVAT.AI](#xvatai)
+5. [Rizzlah](#rizzlah)
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravind-bn&" alt="GitHub streak stats for Aravind" /></p>
+### Projects
+
+#### 1. GrowCalth
+**Description:**  
+A platform aimed at promoting mental health awareness and providing tools for individuals to manage their well-being effectively. This project includes features like journaling, resource-sharing, and progress tracking.  
+
+**Demo/Screenshot:**  
+![GrowCalth Screenshot](https://via.placeholder.com/800x400?text=GrowCalth+Demo+Screenshot)
+
+**GitHub Repository:**  
+[GrowCalth](https://github.com/kidscoots101/GrowCalth-Final.git)
+
+---
+
+#### 2. S401 Homework Management Platform
+**Description:**  
+A comprehensive platform designed for students and teachers to manage homework submissions efficiently. It offers functionalities like assignment creation, tracking, and submission management.  
+
+**Demo/Screenshot:**  
+![S401 Screenshot](https://via.placeholder.com/800x400?text=S401+Homework+Management+Platform+Demo+Screenshot)
+
+**GitHub Repository:**  
+[S401 Homework Management Platform](https://github.com/kidscoots101/S401-Homework-Management-Platform.git)
+
+---
+
+#### 3. Comp Coursework
+**Description:**  
+This project serves as a coursework submission portal for computer science students. It features a user-friendly interface and helps streamline the process of managing and evaluating student submissions.  
+
+**Demo/Screenshot:**  
+![Comp Coursework Screenshot](https://via.placeholder.com/800x400?text=Comp+Coursework+Demo+Screenshot)
+
+**GitHub Repository:**  
+[Comp Coursework](https://github.com/TheshyanTTT/Comp-Coursework.git)
+
+---
+
+#### 4. XVAT.AI
+**Description:**  
+A document automation tool designed for PDF management. XVAT.AI simplifies tasks like extracting text and organizing PDFs, making it an efficient tool for businesses and students.  
+
+**Demo/Screenshot:**  
+![XVAT.AI Screenshot](https://via.placeholder.com/800x400?text=XVAT.AI+Demo+Screenshot)
+
+**GitHub Repository:**  
+[XVAT.AI](https://github.com/kidscoots101/pdf.git)
+
+---
+
+#### 5. Rizzlah
+**Description:**  
+An innovative mobile application project that focuses on user-friendly design and seamless functionality for daily productivity and entertainment.  
+
+**Demo/Screenshot:**  
+![Rizzlah Screenshot](https://via.placeholder.com/800x400?text=Rizzlah+Demo+Screenshot)
+
+**GitHub Repository:**  
+[Rizzlah](https://github.com/Aravind-BN/rizzlah.git)
