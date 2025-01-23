@@ -1,6 +1,7 @@
 <h1 align="left">Hi 👋! My name is Aravind and I'm a student, from Singapore</h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravind-bn&" alt="aravind-bn" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aravind-bn&show_icons=true&locale=en" alt="aravind-bn" /></p>
+
 
 <div align="left">
   <h3 align="left">Languages and Tools I am familiar with:</h3>
@@ -22,27 +23,29 @@
 
 <div align="left">
   <a href="https://www.instagram.com/ar4v1nd_notc00l/" target="blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://www.linkedin.com/in/aravind-nandakumar-a8ba05226/" target="blank"><img src="https://img.shields.io/static/v1 message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.linkedin.com/in/aravind-nandakumar/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 
-
 ###
-<h5 align="left">I'm Aravind from the School of Science and Technology. I am a competent school leader who has great relationships with my peers and groupmates. I enjoy coding as well as learning new things by myself. I am very well-versed in front-end design as well as marketing.</h5>
-
-### 💪 Brief Information of myself
-- 🔭 I was working on [GrowCalth](https://github.com/kidscoots101/GrowCalth-Final.git), which is an one-stop platform for students from my school to contribute to their house through taking steps/waking.
-
-- 👯 I also on [S401-Homework-Management-Platform](https://github.com/kidscoots101/S401-Homework-Management-Platform.git), which is a platform for students from my class to look out for specific homework and announcements related to them.
-
-- 📫 How to reach me **aravindbn54@gmail.com**
-
-- ⚡ Fun fact **I am also a competent student leader in my school part of the House Committee, representing the committee for close to 3 years.**
+<h3 align="left">Competent individual who strives to maintain positive relationships with mates.</h3>
+<h3 align="left">Passionate on coding front-end, playing football, being healthy, designing websites and even mobile apps!</h3>
 
 
+### Project List:
+- [GrowCalth](https://github.com/kidscoots101/GrowCalth-Final.git)
+
+- [S401-Homework-Management-Platform](https://github.com/kidscoots101/S401-Homework-Management-Platform.git)
+
+- [Comp-Coursework](https://github.com/TheshyanTTT/Comp-Coursework.git)
+  
+- [XVAT.AI](https://github.com/kidscoots101/pdf.git)
+
+- [Rizzlah](https://github.com/Aravind-BN/rizzlah.git)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aravind-bn&show_icons=true&locale=en" alt="aravind-bn" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravind-bn&" alt="aravind-bn" /></p>
 
