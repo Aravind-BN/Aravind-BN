@@ -65,7 +65,7 @@
 A platform aimed at promoting mental health awareness and providing tools for individuals to manage their well-being effectively. This project includes features like journaling, resource-sharing, and progress tracking.  
 
 **Demo/Screenshot:**  
-![GrowCalth]<img src="./screenshots/growcalth.jpeg" alt="GrowCalth Screenshot" width="100">
+<img src="./screenshots/growcalth.jpeg" alt="GrowCalth Screenshot" width="250">
 
 **GitHub Repository:**  
 [GrowCalth](https://github.com/kidscoots101/GrowCalth-Final.git)
