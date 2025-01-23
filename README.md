@@ -62,7 +62,14 @@
 
 #### 1. GrowCalth
 **Description:**  
-A platform aimed at promoting mental health awareness and providing tools for individuals to manage their well-being effectively. This project includes features like journaling, resource-sharing, and progress tracking.  
+An one stop platform for student to actively contribute to their house every year by taking steps. For every 10,000 steps a house registers in our app, they will be rewarded with 1 point.
+
+## Features
+- Leaderboard of House Standings
+- View Napfa records of each year starting from 2023.
+- Notify students on house matters with the help of house representatitves.
+- User-friendly and responsive design
+
 
 **Screenshot:**  
 <img src="./screenshots/growcalth.jpeg" alt="GrowCalth Screenshot" width="250">
@@ -74,7 +81,11 @@ A platform aimed at promoting mental health awareness and providing tools for in
 
 #### 2. S401 Homework Management Platform
 **Description:**  
-A comprehensive platform designed for students and teachers to manage homework submissions efficiently. It offers functionalities like assignment creation, tracking, and submission management.  
+A comprehensive platform designed for students to take note of the amount of homework they have and their respective deadlines. 
+
+## Features
+- List of Student's Duties and Responsibilities within the classroom to make them accountable.
+- Links of various Documents, Slides and Sheets which students use daily.
 
 **Screenshot:**  
 ![S401 Screenshot](./screenshots/s401-homework.png)
@@ -86,7 +97,11 @@ A comprehensive platform designed for students and teachers to manage homework s
 
 #### 3. Comp Coursework
 **Description:**  
-This project serves as a coursework submission portal for computer science students. It features a user-friendly interface and helps streamline the process of managing and evaluating student submissions.  
+A platform that allows students and teachers to place their food orders through their device before their recess breaks with card payments.
+
+## Features
+- Verification Checks of Students and Teachers
+- User-friendly and responsive design
 
 **GitHub Repository:**  
 [Comp Coursework](https://github.com/TheshyanTTT/Comp-Coursework.git)
@@ -95,7 +110,15 @@ This project serves as a coursework submission portal for computer science stude
 
 #### 4. XVAT.AI
 **Description:**  
-A document automation tool designed for PDF management. XVAT.AI simplifies tasks like extracting text and organizing PDFs, making it an efficient tool for businesses and students.  
+A personal assistant website that helps students study by asking questions, and offering hints or explanations.
+
+## Features
+- Interactive Question Quiz
+- Progress Tracker
+- Hints and Explanations
+- User-Friendly Interface
+- Feedback and Adaptation
+
 
 **Screenshot:**  
 ![XVAT.AI Screenshot](./screenshots/xvatai.png)
@@ -107,7 +130,14 @@ A document automation tool designed for PDF management. XVAT.AI simplifies tasks
 
 #### 5. Rizzlah
 **Description:**  
-An innovative mobile application project that focuses on user-friendly design and seamless functionality for daily productivity and entertainment.  
+An innovative platfrom that allows users to muster the courage to speak up to his partner by using pick-up lines or other methods with the help of Artificial Intelligence.  
+
+## Features
+- Artifical Intelligence that responds in Singlish.
+- User-friendly and responsive design
+- Challenge Page: Users can challenge against one another (WIP)
+- Rizz Score: Calculate your ability to charm someone
+
 
 **Screenshot:**  
 ![Rizzlah Screenshot](./screenshots/rizzlah.png)
