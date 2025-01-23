@@ -65,7 +65,7 @@
 A platform aimed at promoting mental health awareness and providing tools for individuals to manage their well-being effectively. This project includes features like journaling, resource-sharing, and progress tracking.  
 
 **Demo/Screenshot:**  
-![GrowCalth Screenshot](https://via.placeholder.com/800x400?text=GrowCalth+Demo+Screenshot)
+![GrowCalth Screenshot](./screenshots/growcalth.png)
 
 **GitHub Repository:**  
 [GrowCalth](https://github.com/kidscoots101/GrowCalth-Final.git)
@@ -77,19 +77,16 @@ A platform aimed at promoting mental health awareness and providing tools for in
 A comprehensive platform designed for students and teachers to manage homework submissions efficiently. It offers functionalities like assignment creation, tracking, and submission management.  
 
 **Demo/Screenshot:**  
-![S401 Screenshot](https://via.placeholder.com/800x400?text=S401+Homework+Management+Platform+Demo+Screenshot)
+![S401 Screenshot](.//)
 
 **GitHub Repository:**  
-[S401 Homework Management Platform](https://github.com/kidscoots101/S401-Homework-Management-Platform.git)
+[S401 Homework Management Platform](./screeshots/s401-homework.png)
 
 ---
 
 #### 3. Comp Coursework
 **Description:**  
 This project serves as a coursework submission portal for computer science students. It features a user-friendly interface and helps streamline the process of managing and evaluating student submissions.  
-
-**Demo/Screenshot:**  
-![Comp Coursework Screenshot](https://via.placeholder.com/800x400?text=Comp+Coursework+Demo+Screenshot)
 
 **GitHub Repository:**  
 [Comp Coursework](https://github.com/TheshyanTTT/Comp-Coursework.git)
@@ -101,7 +98,7 @@ This project serves as a coursework submission portal for computer science stude
 A document automation tool designed for PDF management. XVAT.AI simplifies tasks like extracting text and organizing PDFs, making it an efficient tool for businesses and students.  
 
 **Demo/Screenshot:**  
-![XVAT.AI Screenshot](https://via.placeholder.com/800x400?text=XVAT.AI+Demo+Screenshot)
+![XVAT.AI Screenshot](./screenshots/xvatai.png)
 
 **GitHub Repository:**  
 [XVAT.AI](https://github.com/kidscoots101/pdf.git)
@@ -113,7 +110,7 @@ A document automation tool designed for PDF management. XVAT.AI simplifies tasks
 An innovative mobile application project that focuses on user-friendly design and seamless functionality for daily productivity and entertainment.  
 
 **Demo/Screenshot:**  
-![Rizzlah Screenshot](https://via.placeholder.com/800x400?text=Rizzlah+Demo+Screenshot)
+![Rizzlah Screenshot](./screenshots/rizzlah.png)
 
 **GitHub Repository:**  
 [Rizzlah](https://github.com/Aravind-BN/rizzlah.git)
